@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f39268b5.css",
+    "main.js": "/static/js/main.c38bfed7.js",
+    "static/js/422.1e652c68.chunk.js": "/static/js/422.1e652c68.chunk.js",
+    "static/media/ibuprofen-400-mg-bp-tablets.jpg": "/static/media/ibuprofen-400-mg-bp-tablets.b1885edb0150abb05661.jpg",
+    "static/media/Paracetamol+Dolo-650+Uses-+Side+Effects-+Composition+and+Price.jpg": "/static/media/Paracetamol+Dolo-650+Uses-+Side+Effects-+Composition+and+Price.c7f0bbb85cb763589b91.jpg",
+    "static/media/aspirin-dispersible-tablets.jpg": "/static/media/aspirin-dispersible-tablets.f18c929c131ab88f22d1.jpg",
+    "static/media/Antacid.jpg": "/static/media/Antacid.2add7034092df87a8ae5.jpg",
+    "index.html": "/index.html",
+    "main.f39268b5.css.map": "/static/css/main.f39268b5.css.map",
+    "main.c38bfed7.js.map": "/static/js/main.c38bfed7.js.map",
+    "422.1e652c68.chunk.js.map": "/static/js/422.1e652c68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f39268b5.css",
+    "static/js/main.c38bfed7.js"
+  ]
+}

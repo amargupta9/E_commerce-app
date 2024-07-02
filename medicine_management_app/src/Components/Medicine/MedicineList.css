@@ -1,0 +1,81 @@
+/* MedicineList.css */
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+
+
+.medicine-list
+{
+  width: 60%;
+  margin-left: 40px ;
+}
+
+
+
+input[type="text"] {
+  width: calc(100% - 20px);
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  background-color: #f9f9f9;
+}
+
+
+button:hover {
+  background-color: #218838;
+}
+
+button:active {
+  background-color: #1e7e34;
+}
+
+button.disabled {
+  background-color: black;
+  color: white;
+  cursor: not-allowed;
+}
+
+button:hover {
+  background-color: #000000;
+}
+
+
+
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+
+
+.out-of-stock {
+  color: red;
+  font-weight: bold;
+  animation: blink 1s infinite;
+}
